@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "037b8ff8a45da10dc35832833eb3bbb2",
+    "revision": "9cc637672d2712038f89a16ed6bcd534",
     "url": "/developerFolio/index.html"
   },
   {
-    "revision": "f88cbb5d15f60debc3dc",
+    "revision": "b879abc2fed689d4c3d8",
     "url": "/developerFolio/static/css/3.d29f9f24.chunk.css"
   },
   {
-    "revision": "abc8034159c206ed4a66",
+    "revision": "dc0d30eafbb6788c0d6b",
     "url": "/developerFolio/static/css/4.7369bb08.chunk.css"
   },
   {
-    "revision": "46d3ceb887c020c757c4",
+    "revision": "74a9b433563845038b2b",
     "url": "/developerFolio/static/css/main.99f11e2b.chunk.css"
   },
   {
-    "revision": "f4157c30bcde03401b95",
-    "url": "/developerFolio/static/js/2.d473e79d.chunk.js"
+    "revision": "dd19b21e3d4b4ce09439",
+    "url": "/developerFolio/static/js/2.539195c9.chunk.js"
   },
   {
     "revision": "6e1d2efc12a1ac972ff1f942df7eb0bd",
-    "url": "/developerFolio/static/js/2.d473e79d.chunk.js.LICENSE.txt"
+    "url": "/developerFolio/static/js/2.539195c9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f88cbb5d15f60debc3dc",
-    "url": "/developerFolio/static/js/3.38a75f35.chunk.js"
+    "revision": "b879abc2fed689d4c3d8",
+    "url": "/developerFolio/static/js/3.4584288b.chunk.js"
   },
   {
-    "revision": "abc8034159c206ed4a66",
-    "url": "/developerFolio/static/js/4.b1d3994d.chunk.js"
+    "revision": "dc0d30eafbb6788c0d6b",
+    "url": "/developerFolio/static/js/4.a8eafcfb.chunk.js"
   },
   {
-    "revision": "46d3ceb887c020c757c4",
-    "url": "/developerFolio/static/js/main.24d2360c.chunk.js"
+    "revision": "74a9b433563845038b2b",
+    "url": "/developerFolio/static/js/main.6dd80404.chunk.js"
   },
   {
-    "revision": "042fb52a0e6f38a659d0",
-    "url": "/developerFolio/static/js/runtime-main.ce1f5bcf.js"
+    "revision": "6dc53caf2ac0a0775cb0",
+    "url": "/developerFolio/static/js/runtime-main.cb08fb55.js"
   },
   {
     "revision": "a3752c4bf72688b3db38d0911cf75f61",
